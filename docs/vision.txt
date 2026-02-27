@@ -1,0 +1,20 @@
+ENUXION LAB | VISION STATEMENT
+
+Project: Enuxion (ENU)
+Network: Solana
+Status: Research & Development Phase
+
+1. PHILOSOPHY
+Enuxion is built on the belief that decentralized infrastructure should be accessible, transparent, and visually intuitive. We move away from "black box" protocols towards a "Build in Public" model.
+
+2. CORE OBJECTIVES
+- Terminal-First Interaction: Creating a command-line style interface for Solana asset management.
+- Lightweight Monitoring: Developing low-latency tools for real-time liquidity tracking.
+- Ecosystem Utility: ENU token will serve as the primary access key for premium analytical tools developed by the Lab.
+
+3. LONG-TERM GOAL
+To bridge the gap between complex blockchain data and end-users through gamified infrastructure management (Terminal OS).
+
+"The Eye sees the code. The Code builds the future."
+---
+(c) 2026 Enuxion Lab Core Team.
